@@ -84,3 +84,9 @@
 08/19/2017-09:30:27.575496  [**] [1:10020:1] narutoxxx rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:57922 -> 98.124.199.15:80
 08/19/2017-09:31:27.456365  [**] [1:10021:1] naver dot cm rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:48462 -> 85.25.199.30:80
 08/19/2017-09:32:20.546833  [**] [1:10022:1] ryomyong rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:56588 -> 61.161.223.165:80
+08/19/2017-09:33:26.778297  [**] [1:10023:1] sedisk rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:53790 -> 183.101.229.20:80
+08/19/2017-09:34:17.671041  [**] [1:10024:1] sk386 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:35322 -> 222.231.2.128:80
+08/19/2017-09:36:19.328737  [**] [1:10025:1] tcosc rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:43532 -> 69.89.31.133:80
+08/19/2017-09:37:05.477716  [**] [1:10026:1] torenzoa rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:40780 -> 45.63.126.202:80
+08/19/2017-09:38:27.805094  [**] [1:10027:1] umj262 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:50774 -> 104.18.37.16:80
+08/19/2017-09:39:17.730585  [**] [1:10028:1] www dot uriminzokkiri dotcom rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:57438 -> 61.161.223.162:80
