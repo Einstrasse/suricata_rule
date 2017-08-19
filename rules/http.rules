@@ -26,3 +26,6 @@ alert tcp any any -> any 80 (msg:"tcosc rule"; content:"GET / HTTP/"; content:"H
 alert tcp any any -> any 80 (msg:"torenzoa rule"; content:"GET / HTTP/"; content:"Host: www.torenzoa.net"; sid:10026; rev:1;)
 alert tcp any any -> any 80 (msg:"umj262 rule"; content:"GET / HTTP/"; content:"Host: www.umj262.com"; sid:10027; rev:1;)
 alert tcp any any -> any 80 (msg:"www dot uriminzokkiri dotcom rule"; content:"GET / HTTP/"; content:"Host: www.uriminzokkiri.com"; sid:10028; rev:1;)
+alert tcp any any -> any 80 (msg:"kitri bob wiki"; content:"GET /wiki"; content:"Host: kitribob.wiki"; sid:10029; rev:1;)
+alert tcp any any -> any 80 (msg:"linoit rule"; content:"GET /users/men1212/canvases/19%EA%B8%88%20"; content:"Host: linoit.com"; sid:10030; rev:1;)
+alert tcp any any -> any 80 (msg:"named rule"; content:"GET /game/ladder/v2_index.php"; content:"Host: named.com"; sid:10031; rev:1;)

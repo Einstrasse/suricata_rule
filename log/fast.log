@@ -90,3 +90,8 @@
 08/19/2017-09:37:05.477716  [**] [1:10026:1] torenzoa rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:40780 -> 45.63.126.202:80
 08/19/2017-09:38:27.805094  [**] [1:10027:1] umj262 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:50774 -> 104.18.37.16:80
 08/19/2017-09:39:17.730585  [**] [1:10028:1] www dot uriminzokkiri dotcom rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:57438 -> 61.161.223.162:80
+08/19/2017-09:42:27.644483  [**] [1:10029:1] kitri bob wiki [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:50278 -> 104.28.27.243:80
+08/19/2017-09:42:57.890673  [**] [1:10029:1] kitri bob wiki [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:50296 -> 104.28.27.243:80
+08/19/2017-09:43:00.401378  [**] [1:10029:1] kitri bob wiki [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:50296 -> 104.28.27.243:80
+08/19/2017-09:45:21.966153  [**] [1:10030:1] linoit rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:41498 -> 54.183.169.224:80
+08/19/2017-09:47:39.990966  [**] [1:10031:1] named rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:56692 -> 198.41.209.130:80
