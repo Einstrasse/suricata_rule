@@ -75,3 +75,12 @@
 08/19/2017-09:21:46.901529  [**] [1:10006:1] hitomi rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:55180 -> 111.90.139.17:80
 08/19/2017-09:22:22.094560  [**] [1:10008:1] kcna rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:37876 -> 175.45.177.71:80
 08/19/2017-09:23:16.583970  [**] [1:10013:1] rodong rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:39280 -> 175.45.177.68:80
+08/19/2017-09:25:11.445408  [**] [1:10014:1] uriminzokkiri rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:56688 -> 61.161.223.162:80
+08/19/2017-09:25:56.907969  [**] [1:10015:1] 4shared rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:47170 -> 74.117.178.90:80
+08/19/2017-09:27:03.443568  [**] [1:10016:1] bamwar25 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:51964 -> 107.154.247.95:80
+08/19/2017-09:27:47.665183  [**] [1:10017:1] faa25 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:43710 -> 103.31.15.102:80
+08/19/2017-09:28:54.634979  [**] [1:10018:1] kimmadam rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:48506 -> 175.125.23.115:80
+08/19/2017-09:29:49.829903  [**] [1:10019:1] minjok rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:54698 -> 74.208.236.254:80
+08/19/2017-09:30:27.575496  [**] [1:10020:1] narutoxxx rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:57922 -> 98.124.199.15:80
+08/19/2017-09:31:27.456365  [**] [1:10021:1] naver dot cm rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:48462 -> 85.25.199.30:80
+08/19/2017-09:32:20.546833  [**] [1:10022:1] ryomyong rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:56588 -> 61.161.223.165:80
