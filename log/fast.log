@@ -1,0 +1,77 @@
+08/16/2017-04:41:29.478410  [**] [1:10002:1] naver rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.41.131:49328 -> 125.209.222.142:80
+08/16/2017-04:41:59.528575  [**] [1:10001:1] gilgil rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.41.131:34684 -> 61.73.111.238:80
+08/16/2017-04:42:09.577558  [**] [1:10001:1] gilgil rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.41.131:34686 -> 61.73.111.238:80
+08/16/2017-04:51:32.274203  [**] [1:10003:1] snoopspy download rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.41.131:34690 -> 61.73.111.238:80
+08/16/2017-04:51:40.544100  [**] [1:10003:1] snoopspy download rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.41.131:34692 -> 61.73.111.238:80
+08/16/2017-04:51:42.537421  [**] [1:10003:1] snoopspy download rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.41.131:34694 -> 61.73.111.238:80
+08/16/2017-05:08:42.872642  [**] [1:10004:1] hclipse rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.41.131:48232 -> 104.20.226.13:80
+08/16/2017-05:09:27.551258  [**] [1:10004:1] hclipse rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.41.131:33346 -> 104.20.227.13:80
+08/16/2017-05:09:32.702863  [**] [1:10004:1] hclipse rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.41.131:33346 -> 104.20.227.13:80
+08/16/2017-05:11:34.157877  [**] [1:10005:1] avnana rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.41.131:42754 -> 104.31.74.2:80
+08/16/2017-05:12:05.430466  [**] [1:10005:1] avnana rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.41.131:42758 -> 104.31.74.2:80
+08/16/2017-05:12:10.198455  [**] [1:10005:1] avnana rule [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.41.131:55200 -> 104.31.75.2:80
+08/19/2017-08:23:09.250524  [**] [1:10001:1] gilgil rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:55440 -> 61.73.111.238:80
+08/19/2017-08:36:33.408413  [**] [1:10006:1] hitomi rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:50266 -> 88.80.20.11:80
+08/19/2017-08:41:32.177451  [**] [1:10007:1] kass rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:38460 -> 175.45.176.81:80
+08/19/2017-08:44:46.330230  [**] [1:10008:1] kcna rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:37102 -> 175.45.177.71:80
+08/19/2017-08:45:36.066047  [**] [1:10009:1] ks8282 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:45704 -> 54.65.82.252:80
+08/19/2017-08:46:34.950281  [**] [1:10010:1] naevr rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:48546 -> 67.227.226.241:80
+08/19/2017-08:47:30.846950  [**] [1:10011:1] naver6 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:37412 -> 185.53.178.9:80
+08/19/2017-09:05:02.084670  [**] [1:10011:1] naver6 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:37628 -> 185.53.178.9:80
+08/19/2017-09:05:20.391725  [**] [1:10011:1] naver6 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:37698 -> 185.53.178.9:80
+08/19/2017-09:08:08.410263  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:15932 -> 10.10.10.2:53
+08/19/2017-09:08:08.410692  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:23455 -> 10.10.10.2:53
+08/19/2017-09:08:09.662615  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:40511 -> 10.10.10.2:53
+08/19/2017-09:08:09.663309  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:56896 -> 10.10.10.2:53
+08/19/2017-09:08:09.855237  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:21231 -> 10.10.10.2:53
+08/19/2017-09:08:09.855659  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:59149 -> 10.10.10.2:53
+08/19/2017-09:08:09.959680  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:21440 -> 10.10.10.2:53
+08/19/2017-09:08:09.961605  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:8250 -> 10.10.10.2:53
+08/19/2017-09:08:10.051872  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:6641 -> 10.10.10.2:53
+08/19/2017-09:08:10.052283  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:1476 -> 10.10.10.2:53
+08/19/2017-09:08:10.147662  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:28886 -> 10.10.10.2:53
+08/19/2017-09:08:10.148418  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:29009 -> 10.10.10.2:53
+08/19/2017-09:08:10.221577  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:48935 -> 10.10.10.2:53
+08/19/2017-09:08:10.222322  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:22421 -> 10.10.10.2:53
+08/19/2017-09:08:10.311103  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:40315 -> 10.10.10.2:53
+08/19/2017-09:08:10.311442  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:33611 -> 10.10.10.2:53
+08/19/2017-09:08:10.406936  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:24003 -> 10.10.10.2:53
+08/19/2017-09:08:10.408681  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:40243 -> 10.10.10.2:53
+08/19/2017-09:08:10.501296  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:13914 -> 10.10.10.2:53
+08/19/2017-09:08:10.502505  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:42392 -> 10.10.10.2:53
+08/19/2017-09:08:10.618629  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:8896 -> 10.10.10.2:53
+08/19/2017-09:08:10.619187  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:25471 -> 10.10.10.2:53
+08/19/2017-09:08:10.691014  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:22351 -> 10.10.10.2:53
+08/19/2017-09:08:10.691200  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:38991 -> 10.10.10.2:53
+08/19/2017-09:08:11.989607  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:64356 -> 10.10.10.2:53
+08/19/2017-09:08:11.989743  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:1246 -> 10.10.10.2:53
+08/19/2017-09:08:12.153758  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:57208 -> 10.10.10.2:53
+08/19/2017-09:08:12.154136  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:33761 -> 10.10.10.2:53
+08/19/2017-09:08:12.683460  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:47394 -> 10.10.10.2:53
+08/19/2017-09:08:12.683705  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:56724 -> 10.10.10.2:53
+08/19/2017-09:08:12.938880  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:3611 -> 10.10.10.2:53
+08/19/2017-09:08:12.939127  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:27157 -> 10.10.10.2:53
+08/19/2017-09:08:12.944748  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:9855 -> 10.10.10.2:53
+08/19/2017-09:08:12.945109  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:3257 -> 10.10.10.2:53
+08/19/2017-09:08:13.053132  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:61001 -> 10.10.10.2:53
+08/19/2017-09:08:13.053421  [**] [1:0:0] dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:6728 -> 10.10.10.2:53
+08/19/2017-09:11:09.508610  [**] [1:200001:0] onaratv dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:14173 -> 10.10.10.2:53
+08/19/2017-09:11:09.508013  [**] [1:200001:0] onaratv dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:11618 -> 10.10.10.2:53
+08/19/2017-09:11:11.550058  [**] [1:200001:0] onaratv dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:54956 -> 10.10.10.2:53
+08/19/2017-09:11:11.550140  [**] [1:200001:0] onaratv dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:56788 -> 10.10.10.2:53
+08/19/2017-09:11:11.627729  [**] [1:200001:0] onaratv dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:65400 -> 10.10.10.2:53
+08/19/2017-09:11:11.627958  [**] [1:200001:0] onaratv dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:41345 -> 10.10.10.2:53
+08/19/2017-09:11:11.717013  [**] [1:200001:0] onaratv dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:37652 -> 10.10.10.2:53
+08/19/2017-09:11:11.718857  [**] [1:200001:0] onaratv dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:53648 -> 10.10.10.2:53
+08/19/2017-09:11:11.812833  [**] [1:200001:0] onaratv dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:3223 -> 10.10.10.2:53
+08/19/2017-09:11:11.813166  [**] [1:200001:0] onaratv dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:9708 -> 10.10.10.2:53
+08/19/2017-09:11:11.901825  [**] [1:200001:0] onaratv dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:10241 -> 10.10.10.2:53
+08/19/2017-09:11:11.901933  [**] [1:200001:0] onaratv dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:47546 -> 10.10.10.2:53
+08/19/2017-09:12:09.477378  [**] [1:200001:0] onaratv dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:30064 -> 10.10.10.2:53
+08/19/2017-09:19:34.534132  [**] [1:10011:1] naver6 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:37936 -> 185.53.178.9:80
+08/19/2017-09:21:18.355288  [**] [1:10011:1] naver6 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:38030 -> 185.53.178.9:80
+08/19/2017-09:21:19.962334  [**] [1:200002:0] pornpros dns query [**] [Classification: (null)] [Priority: 3] {UDP} 10.10.10.5:50494 -> 10.10.10.2:53
+08/19/2017-09:21:45.556375  [**] [1:10007:1] kass rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:39352 -> 175.45.176.81:80
+08/19/2017-09:21:46.901529  [**] [1:10006:1] hitomi rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:55180 -> 111.90.139.17:80
+08/19/2017-09:22:22.094560  [**] [1:10008:1] kcna rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:37876 -> 175.45.177.71:80
+08/19/2017-09:23:16.583970  [**] [1:10013:1] rodong rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:39280 -> 175.45.177.68:80

@@ -1,0 +1,2 @@
+alert udp any any -> any 53 (msg:"onaratv dns query";threshold: type both, track by_src, count 3, seconds 3; dns_query; content:"onaratv.com";nocase;sid: 200001;)
+alert udp any any -> any 53 (msg:"pornpros dns query";threshold: type both, track by_src, count 3, seconds 3; dns_query; content:"pornpros.com";nocase;sid: 200002;)

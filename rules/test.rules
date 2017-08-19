@@ -1,5 +1,0 @@
-alert tcp any any -> any 80 (msg:"gilgil rule"; content:"GET /"; content:"Host: www.gilgil.net"; sid:10001; rev:1;)
-alert tcp any any -> any 80 (msg:"naver rule"; content:"GET /"; content:"Host: www.naver.com"; sid:10002; rev:1;)
-alert tcp any any -> any 80 (msg:"snoopspy download rule"; content:"GET /download"; content:"Host: snoopspy.com"; sid:10003; rev:1;)
-alert tcp any any -> any 80 (msg:"hclipse rule"; content:"GET /"; content:"Host: hclips.com"; sid:10004; rev:1;)
-alert tcp any any -> any 80 (msg:"avnana rule"; content:"GET /"; content:"avnana.com"; sid:10005; rev:1;)
