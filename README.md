@@ -44,23 +44,23 @@ http://www.winclub88.net/my/4D.html
 ```
 2. DNS 쿼리로 탐지 가능한 사이트들
 ```
-	http://onaratv.com/
-	http://pornpros.com
+http://onaratv.com/
+http://pornpros.com
 ```
 3. HTTPS의 TLS Client Hello msg로 탐지 가능한 사이트들
 ```
-	https://graphgame.net/
-	https://sex.com
-	https://torrenthaja.com
-	https://torrentkim10.net
-	https://webtoon.bamtoki.com/
-	https://mujige53770.wixsite.com
-	https://www.mtbucks.com
-	https://www.phishtank.com/
+https://graphgame.net/
+https://sex.com
+https://torrenthaja.com
+https://torrentkim10.net
+https://webtoon.bamtoki.com/
+https://mujige53770.wixsite.com
+https://www.mtbucks.com
+https://www.phishtank.com/
 ```
 4. 페이지를 특정하여 탐지가 불가능한 사이트들
 ```
-	https://www.facebook.com/profile.php?id=100019007882633
-	https://www.opioids.com/offshorepharmacy/index.html
-	https://yobit.net/en/dice/
+https://www.facebook.com/profile.php?id=100019007882633
+https://www.opioids.com/offshorepharmacy/index.html
+https://yobit.net/en/dice/
 ```
