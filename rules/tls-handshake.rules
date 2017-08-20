@@ -1,0 +1,8 @@
+alert tcp any any -> any 443 (msg:"graphgame rule"; content:"graphgame.net"; sid:300001; rev:1;)
+alert tcp any any -> any 443 (msg:"sex dot com rule"; content:"sex.com"; sid:300002; rev:1;)
+alert tcp any any -> any 443 (msg:"torrenthaja dot com rule"; content:"torrenthaja.com"; sid:300003; rev:1;)
+alert tcp any any -> any 443 (msg:"torrentkim10 dot net rule"; content:"torrentkim10.net"; sid:300004; rev:1;)
+alert tcp any any -> any 443 (msg:"bamtoki webtoon rule"; content:"webtoon.bamtoki.com"; sid:300005; rev:1;)
+alert tcp any any -> any 443 (msg:"mujige rule"; content:"mujige53770.wixsite.com"; sid:300006; rev:1;)
+alert tcp any any -> any 443 (msg:"mtbucks rule"; content:"www.mtbucks.com"; sid:300007; rev:1;)
+alert tcp any any -> any 443 (msg:"phishtank rule"; content:"www.phishtank.com"; sid:300008; rev:1;)

@@ -750,6 +750,7 @@ default-rule-path: /usr/local/etc/suricata/rules
 rule-files:
  - http.rules
  - dns.rules
+ - tls-handshake.rules
  # - botcc.rules
  # - ciarmy.rules
  # - compromised.rules

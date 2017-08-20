@@ -106,3 +106,20 @@
 08/20/2017-07:27:41.210136  [**] [1:10034:1] ilbe rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:34794 -> 141.101.121.207:80
 08/20/2017-07:30:49.202485  [**] [1:10035:1] winclub88 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:45158 -> 104.27.184.156:80
 08/20/2017-07:30:59.582407  [**] [1:10035:1] winclub88 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:45170 -> 104.27.184.156:80
+08/20/2017-07:42:25.588801  [**] [1:300001:1] graphgame rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:40042 -> 104.18.39.97:443
+08/20/2017-07:42:25.818647  [**] [1:300001:1] graphgame rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:40044 -> 104.18.39.97:443
+08/20/2017-07:43:30.618953  [**] [1:300002:1] sex dot come rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:33538 -> 206.125.164.82:443
+08/20/2017-07:43:30.886877  [**] [1:300002:1] sex dot come rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:33540 -> 206.125.164.82:443
+08/20/2017-07:44:14.494262  [**] [1:300003:1] torrenthaja dot com rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:39782 -> 104.25.107.107:443
+08/20/2017-07:44:14.740536  [**] [1:300003:1] torrenthaja dot com rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:39784 -> 104.25.107.107:443
+08/20/2017-07:44:58.415647  [**] [1:300004:1] torrentkim10 dot net rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:35162 -> 104.27.144.154:443
+08/20/2017-07:46:03.790262  [**] [1:300005:1] bamtoki webtoon rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:38612 -> 104.20.188.49:443
+08/20/2017-07:48:01.409249  [**] [1:300006:1] mujige rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:50188 -> 52.2.9.91:443
+08/20/2017-07:48:51.978438  [**] [1:300007:1] mtbucks rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:55380 -> 104.27.151.234:443
+08/20/2017-07:50:10.694304  [**] [1:300008:1] phishtank rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:41572 -> 146.112.225.22:443
+08/20/2017-07:50:11.748238  [**] [1:300008:1] phishtank rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:41580 -> 146.112.225.22:443
+08/20/2017-07:50:11.778567  [**] [1:300008:1] phishtank rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:41578 -> 146.112.225.22:443
+08/20/2017-07:50:11.820296  [**] [1:300008:1] phishtank rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:41576 -> 146.112.225.22:443
+08/20/2017-07:50:13.179685  [**] [1:300008:1] phishtank rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:41584 -> 146.112.225.22:443
+08/20/2017-07:50:14.233018  [**] [1:300008:1] phishtank rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:41588 -> 146.112.225.22:443
+08/20/2017-07:50:14.257689  [**] [1:300008:1] phishtank rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:41590 -> 146.112.225.22:443
