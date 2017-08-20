@@ -29,3 +29,7 @@ alert tcp any any -> any 80 (msg:"www dot uriminzokkiri dotcom rule"; content:"G
 alert tcp any any -> any 80 (msg:"kitri bob wiki"; content:"GET /wiki"; content:"Host: kitribob.wiki"; sid:10029; rev:1;)
 alert tcp any any -> any 80 (msg:"linoit rule"; content:"GET /users/men1212/canvases/19%EA%B8%88%20"; content:"Host: linoit.com"; sid:10030; rev:1;)
 alert tcp any any -> any 80 (msg:"named rule"; content:"GET /game/ladder/v2_index.php"; content:"Host: named.com"; sid:10031; rev:1;)
+alert tcp any any -> any 80 (msg:"snoopspy download rule"; content:"GET /download HTTP"; content:"Host: snoopspy.com"; sid:10032; rev:1;)
+alert tcp any any -> any 80 (msg:"gilgilnet mp4 download rule"; content:"GET /streaming/test.mp4 HTTP"; content:"Host: test.gilgil.net"; sid:10033; rev:1;)
+alert tcp any any -> any 80 (msg:"ilbe rule"; content:"GET /ilbe HTTP"; content:"Host: www.ilbe.com"; sid:10034; rev:1;)
+alert tcp any any -> any 80 (msg:"winclub88 rule"; content:"GET /my/4D.html HTTP"; content:"Host: www.winclub88.net"; sid:10035; rev:1;)

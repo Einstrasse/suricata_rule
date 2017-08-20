@@ -95,3 +95,14 @@
 08/19/2017-09:43:00.401378  [**] [1:10029:1] kitri bob wiki [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:50296 -> 104.28.27.243:80
 08/19/2017-09:45:21.966153  [**] [1:10030:1] linoit rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:41498 -> 54.183.169.224:80
 08/19/2017-09:47:39.990966  [**] [1:10031:1] named rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:56692 -> 198.41.209.130:80
+08/20/2017-07:18:32.049541  [**] [1:10003:1] snoopspy download rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:57694 -> 61.73.111.238:80
+08/20/2017-07:19:27.874334  [**] [1:10003:1] snoopspy download rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:57722 -> 61.73.111.238:80
+08/20/2017-07:19:27.874334  [**] [1:10032:1] snoopspy download rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:57722 -> 61.73.111.238:80
+08/20/2017-07:19:42.271737  [**] [1:10003:1] snoopspy download rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:57736 -> 61.73.111.238:80
+08/20/2017-07:19:42.271737  [**] [1:10032:1] snoopspy download rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:57736 -> 61.73.111.238:80
+08/20/2017-07:24:31.240153  [**] [1:10033:1] gilgilnet mp4 download rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:57794 -> 61.73.111.238:80
+08/20/2017-07:26:31.697457  [**] [1:10034:1] ilbe rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:34672 -> 141.101.121.207:80
+08/20/2017-07:27:30.087035  [**] [1:10034:1] ilbe rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:34736 -> 141.101.121.207:80
+08/20/2017-07:27:41.210136  [**] [1:10034:1] ilbe rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:34794 -> 141.101.121.207:80
+08/20/2017-07:30:49.202485  [**] [1:10035:1] winclub88 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:45158 -> 104.27.184.156:80
+08/20/2017-07:30:59.582407  [**] [1:10035:1] winclub88 rule [**] [Classification: (null)] [Priority: 3] {TCP} 10.10.10.5:45170 -> 104.27.184.156:80
